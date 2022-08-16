@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# Alchemy Road to Web3 - Week 1
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is a code created based on a tutorial from Alchemy platform. This involves the following web3 functionalities
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+1. ERC721 contract creation
+2. Minting NFTs and setting IPFS
+3. Withdrawing funds
